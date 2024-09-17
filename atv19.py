@@ -6,6 +6,6 @@ while n >= 0:
     while n > 1:
         fatorial = fatorial * n
     n = n - 1
-    print(fatorial)
+    print()
  
   
